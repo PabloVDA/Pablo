@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PablitoEXE
 - 👀 I’m interested in building different things with code!
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on making awesome projects!
 - 📫 How to reach me Discord: pabloexe
 
